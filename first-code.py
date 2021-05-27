@@ -1,3 +1,3 @@
 total_days = 60
 print(total_days)
-print("Gushti Chudi bro!")
+print("Gushti Chudi bro!"*total_days)
