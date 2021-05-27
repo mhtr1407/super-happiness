@@ -1,1 +1,2 @@
-print("This is my first program.")
+total_days = 60
+print(total_days)
