@@ -1,3 +1,2 @@
-total_days = 60
-print(total_days)
-print("Gushti Chudi bro!"*total_days)
+y = 51
+print(y) 
